@@ -93,10 +93,3 @@ Push to branch & create PR
 
 📜 License
 This project is licensed under the MIT License.
-
-
-
-
-
-No file chosenNo file chosen
-ChatGPT can make mistakes. Check important info. See .
